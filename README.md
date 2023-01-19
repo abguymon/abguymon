@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam Guymon (@abguymon)
-- 👀 I’m interested in Machine Learning and Tiny Projects
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Tiny Projects
+- 🌱 I’m currently learning Go and Rust
 - 📫 Reach me at adambguymon@gmail.com
 
 <!---
